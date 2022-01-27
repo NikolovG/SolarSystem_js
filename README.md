@@ -1,2 +1,2 @@
 # SolarSystem_js
-Project: Depiction a generated Solar System, made in JavaScript, HTML, CSS
+Project: Depiction a generated planetary system, made in JavaScript, HTML, CSS
